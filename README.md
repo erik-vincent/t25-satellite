@@ -12,7 +12,7 @@ You can find Richard Sappia's version here: <a href="https://hackaday.io/project
 <h2>SAT Tiny schematic</h2>
 
 <p align="center">
-  <img width="509" src="https://i.postimg.cc/Yqkk21Gg/t25-satellite-schematic.jpg" alt="SAT Tiny schematic">
+  <img width="764" src="https://i.postimg.cc/Yqkk21Gg/t25-satellite-schematic.jpg" alt="SAT Tiny schematic">
 </p>
 
 <p>&nbsp;</p>
