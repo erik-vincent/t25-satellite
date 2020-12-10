@@ -1,7 +1,7 @@
 # t25-satellite
 <p align="center">
   Atmel Studio C code for the attiny25v satellite sculpture<br />
-  <img width="300" src="https://postimg.cc/94Cjv5wW" alt="SAT Tiny attiny25v">
+  <img width="300" src="https://i.postimg.cc/GpshTbcs/t25-satellite.jpg" alt="SAT Tiny attiny25v">
 </p>
 
 <p>Based around Richard Sappia's SAT Tiny, I decided to build one but didn't want to the the Arduino IDE, preferring Atmel/Microchip Studio instead.
@@ -12,11 +12,11 @@ You can find Richard Sappia's version here: <a href="https://hackaday.io/project
 <h2>SAT Tiny schematic</h2>
 
 <p align="center">
-  <img src="https://postimg.cc/ThkBC5cY" alt="SAT Tiny schematic">
+  <img src="https://i.postimg.cc/Yqkk21Gg/t25-satellite-schematic.jpg" alt="SAT Tiny schematic">
 </p>
 
 <p>&nbsp;</p>
-<h2>SAT Tiny schematic</h2>
+<h2>SAT Tiny BOM</h2>
 <p>
 1x 4F, 5.5V super capacitor: <a href="https://www.amazon.com/TOVOT-Value-Capacitors-capacitor-Assortment/dp/B073RY8B4Z/">https://www.amazon.com/TOVOT-Value-Capacitors-capacitor-Assortment/dp/B073RY8B4Z/</a><br />
 1x 0.8mm Brass Rod Set: <a href="https://kitkraft.com/products/1-32-0-8mm-round-brass-rod">https://kitkraft.com/products/1-32-0-8mm-round-brass-rod</a><br />
