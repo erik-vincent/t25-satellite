@@ -1,18 +1,18 @@
 # t25-satellite
 <p align="center">
   Atmel Studio C code for the attiny25v satellite sculpture<br />
-  <img width="300" src="https://i.postimg.cc/GpshTbcs/t25-satellite.jpg" alt="SAT Tiny attiny25v">
+  <img width="572" src="https://i.postimg.cc/GpshTbcs/t25-satellite.jpg" alt="SAT Tiny attiny25v">
 </p>
 
 <p>Based around Richard Sappia's SAT Tiny, I decided to build one but didn't want to the the Arduino IDE, preferring Atmel/Microchip Studio instead.
 You can find Richard Sappia's version here: <a href="https://hackaday.io/project/174462-sattiny">https://hackaday.io/project/174462-sattiny</a></p>
 <p>The idea of this mini project is to make two LEDs blink in a predefined pattern that looks similar to an exponential function given by an RC circuit, creating a smooth fading effect.</p>
-<p>This is the code running on the SAT Tiny. Based on Richard Sappia's measurements, it has been observed that the current consumption remains around 4uA when sleeping. During the day, when there is enough light to load the super cap, the Attiny wakes up every 8 seconds to checkout if PB3 is still high. In absence of light, PB3 sees a logical 0. At this point, the wake up interval changes to 4 seconds.</p>
+<p>This is the code running on the SAT Tiny. Based on Richard Sappia's measurements, it has been observed that the current consumption remains around 4μA when sleeping. During the day, when there is enough light to load the super cap, the Attiny wakes up every 8 seconds to checkout if PB3 is still high. In absence of light, PB3 sees a logical 0. At this point, the wake up interval changes to 4 seconds.</p>
 
 <h2>SAT Tiny schematic</h2>
 
 <p align="center">
-  <img src="https://i.postimg.cc/Yqkk21Gg/t25-satellite-schematic.jpg" alt="SAT Tiny schematic">
+  <img width="1018" src="https://i.postimg.cc/Yqkk21Gg/t25-satellite-schematic.jpg" alt="SAT Tiny schematic">
 </p>
 
 <p>&nbsp;</p>
