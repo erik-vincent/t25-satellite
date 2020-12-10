@@ -1,9 +1,6 @@
 # t25-satellite
-Atmel Studio C code for the attiny25v satellite sculpture
-
-# t25-satellite
-
 <p align="center">
+  Atmel Studio C code for the attiny25v satellite sculpture<br />
   <img width="300" src="https://postimg.cc/94Cjv5wW" alt="SAT Tiny attiny25v">
 </p>
 
