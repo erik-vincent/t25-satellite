@@ -16,7 +16,7 @@ You can find Richard Sappia's version here: <a href="https://hackaday.io/project
 </p>
 
 <p>&nbsp;</p>
-<p>The BOM</p>
+<h2>SAT Tiny schematic</h2>
 <p>
 1x 4F, 5.5V super capacitor: <a href="https://www.amazon.com/TOVOT-Value-Capacitors-capacitor-Assortment/dp/B073RY8B4Z/">https://www.amazon.com/TOVOT-Value-Capacitors-capacitor-Assortment/dp/B073RY8B4Z/</a><br />
 1x 0.8mm Brass Rod Set: <a href="https://kitkraft.com/products/1-32-0-8mm-round-brass-rod">https://kitkraft.com/products/1-32-0-8mm-round-brass-rod</a><br />
