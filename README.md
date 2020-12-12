@@ -9,6 +9,12 @@ You can find Richard Sappia's version here: <a href="https://hackaday.io/project
 <p>The idea of this mini project is to make two LEDs blink in a predefined pattern that looks similar to an exponential function given by an RC circuit, creating a smooth fading effect.</p>
 <p>This is the code running on the SAT Tiny. Based on Richard Sappia's measurements, it has been observed that the current consumption remains around 4μA when sleeping. During the day, when there is enough light to load the super cap, the Attiny wakes up every 8 seconds to checkout if PB3 is still high. In absence of light, PB3 sees a logical 0. At this point, the wake up interval changes to 4 seconds.</p>
 
+<h2>SAT Tiny Frame</h2>
+
+<p align="center">
+  <img width="804" src="https://i.postimg.cc/MTdLTC0X/Satellite-Frame-2.jpg" alt="SAT Tiny Frame">
+</p>
+
 <h2>SAT Tiny schematic</h2>
 
 <p align="center">
