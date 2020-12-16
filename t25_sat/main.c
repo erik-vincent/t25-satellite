@@ -70,7 +70,7 @@ int main(void)
 	DDRB &= ~(1 << PORTB4);	// set PB4 to so we can pull-up internal resistor
 	
 	PORTB &= ~(1 << 0);			// Set port PB0 to low to initialize LED as off
-	PORTB &= ~(1 << 1);			// Set port PA1 to low to initialize LED as off
+	PORTB &= ~(1 << 1);			// Set port PB1 to low to initialize LED as off
 	
 	PORTB |= (1 << 2);			// Set port PB2 to high to enable internal pull-up
 	PORTB |= (1 << 4);			// Set port PB4 to high to enable internal pull-up
@@ -95,7 +95,7 @@ int main(void)
 			    // so, in the name of saving power, increase the delay time back to 8 seconds
 			    // so we don't wake up as often and waste juice.
 			    wdt_delay=9;
-			    } else {
+			} else {
 			    // with no light, this is when we should be showing off the LEDs, so...
 			    
 			    // set the watchdog timer delay to only 4 seconds
